@@ -236,8 +236,6 @@ Right-click the tray icon → **Settings / Voices / Speed**
 - **Hotkeys** — customize both hotkeys
 - **Debug logging** — toggle verbose logging to `hebrew_tts.log`
 
-> To install high-quality Windows Natural voices: **Settings → Accessibility → Narrator → Add voices**
-
 ---
 
 ## Part 3 — Build a Windows Executable (.exe)
