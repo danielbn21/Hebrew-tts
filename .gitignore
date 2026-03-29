@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+*.egg-info/
+
+# PyInstaller output
+build/
+dist/
+*.spec
+
+# Config and logs (contain local IPs and personal settings)
+hebrew_tts_config.json
+hebrew_tts.log
+
+# Model files (large — download separately via README instructions)
+*.onnx
+*.onnx.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Screenshots placeholder folder — keep the folder, ignore actual images
+screenshots/*.png
+screenshots/*.jpg
+!screenshots/.gitkeep
